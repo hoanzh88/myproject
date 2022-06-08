@@ -1,5 +1,5 @@
 # myproject
-Django CRUD with forms, teamplate
+Django CRUD with forms, teamplate jinja
 
 ### Install Mysql python (nếu chưa có)
 pip3 install pymysql
